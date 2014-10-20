@@ -1,0 +1,26 @@
+{
+  "name": "assign2",
+  "version": "0.0.0",
+  "description": "assignment 2 frontend development",
+  "engines": {
+    "node": "0.10.x"
+    },
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Boese/frontend"
+  },
+  "author": "Chris Boese",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/Boese/frontend/issues"
+  },
+  "dependencies": {
+    "hapi": "~7.0.0",
+    "good": "~3.0.1"
+  }
+}
