@@ -1,1 +1,1 @@
-web: node node_modules/hapi/server.js
+web: node server.js
